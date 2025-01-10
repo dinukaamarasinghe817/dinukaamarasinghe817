@@ -1,5 +1,5 @@
 <!--Banner-->
-![dinukaamarasinghe817 Banner Image](https://github.com/dinukaamarasinghe817/dinukaamarasinghe817/banner/banner.jpeg)
+![dinukaamarasinghe817 Banner Image](https://github.com/dinukaamarasinghe817/dinukaamarasinghe817/blob/main/banner/banner.jpeg)
 
 <!--Night Owl image-->
 <div>
