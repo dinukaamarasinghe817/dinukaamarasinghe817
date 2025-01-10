@@ -99,14 +99,14 @@ hackathons. Seek new challenges and eager to learn and grow in every opportunity
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!-- <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2> -->
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?
     &quote=Nobody+sane+would+set+the+benchmarks
     &colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+</p> -->
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
